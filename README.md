@@ -8,6 +8,8 @@ I'm a passionate **Software Automation Engineer** with expertise in **SDET (Soft
 
 ### Programming Languages:
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries:
 - **Test Automation:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Appium](https://img.shields.io/badge/Appium-3DDC84?style=for-the-badge&logo=appium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF8300?style=for-the-badge&logo=TestNG&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-08594E?style=for-the-badge&logo=rest-assured&logoColor=white)
